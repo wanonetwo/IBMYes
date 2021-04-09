@@ -439,9 +439,9 @@ body.vpn {
       background: url("https://cdn.jsdelivr.net/gh/wanonetwo/IBMYes/img/tb2.svg") no-repeat center left;
       background-size: 94px;
       display: inline-block;
-      height: 32px;
+      height: 90px;
       padding-left: 38px;
-      width: 94px; }
+      width: 90px; }
   .vpn .header-wrapper nav,
   .legacy .header-wrapper nav {
     align-items: center;
